@@ -1,7 +1,7 @@
 * {
-  margin: 0; /* remove o espaço entre os elementos */
-  padding: 0; /* remove o espaço entre os elementos */
-  box-sizing: border-box; /* faz com que o tamanho da caixa seja igual ao tamanho do conteúdo */
+  margin: 0; 
+  padding: 0; 
+  box-sizing: border-box; 
   font-family: "Open Sans", sans-serif;
 }
 
@@ -10,11 +10,11 @@ body {
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
-  height: 100vh; /* 100% da altura da tela */
-  width: 100%; /* 100% da largura da tela */
-  display: flex; /* propriedade que quando ativada permite os comandos abaixo, entre outros */
-  align-items: center; /* centraliza o conteúdo vertical */
-  justify-content: center; /* centraliza o conteúdo horizontal */
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .container-principal {
