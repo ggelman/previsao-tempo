@@ -6,7 +6,7 @@
 }
 
 body {
-  background-image: url("https://unsplash.com/pt-br/fotografias/montanha-verde-em-todo-o-corpo-de-agua-Bkci_8qcdvQ");
+  background-image: url(./images/landscape.jpg);
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
